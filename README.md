@@ -1,2 +1,2 @@
 # sansahinnovationsAPP
-sansahinnvoations ios project
+sansahinnvoations Iot based ios mobile application
